@@ -1,2 +1,1 @@
-# pure-python-text-nlp
-🚀 A simple text analysis project built using only pure Python. This project lays the groundwork for understanding how AI/NLP systems work at a fundamental level. Ideal for those starting their journey into AI engineering.
+SmartText adalah sebuah mini-engine untuk memproses dan menganalisis teks menggunakan Python murni tanpa library tambahan. Proyek ini menunjukkan kemampuan dasar dalam pemrosesan string, logika dasar pemrograman, dan menyiapkan fondasi untuk pengembangan NLP (Natural Language Processing) di masa depan. Proyek ini merupakan langkah awal saya untuk menjadi AI Engineer
